@@ -30,7 +30,7 @@ public class Constants {
     // Automatic update checking
     public static final long UPDATE_DEFAULT_FREQ = AlarmManager.INTERVAL_HALF_DAY;
     // Build vars
-    public static final String CURRENT_DEVICE_NAME = "ros.ota.device";
+    public static final String CURRENT_DEVICE_NAME = "ro.product.device";
     public static final String CURRENT_VERSION = "ros.revolution.version";
     public static final String CURRENT_BUILD_TYPE = "ros.revolution.build_type_ota";
     public static final String OTA_URL = "https://ota.revtechs.me/rosp/%s";
