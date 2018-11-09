@@ -27,7 +27,7 @@
   <string name="mobile_data_warning_title">Advertencia de datos móviles</string>
   <string name="mobile_data_warning_summary">Mostrar una advertencia cuando el usuario intenta descargar una actualización utilizando los datos móviles</string>
   <!-- Info section -->
-  <string name="extras_category_title">Mirrors y links</string>
+  <string name="extras_category_title">Mas información</string>
   <string name="error_open_url">Error al abrir la URL en el navegador</string>
   <string name="developer_info_title">Mantenedor</string>
   <string name="donate_info_title">Donar</string>
@@ -38,8 +38,8 @@
   <string name="news_info_summary">Manténgase informado sobre las actualizaciones y otras noticias</string>
   <string name="forum_info_title">Grupo Telegram</string>
   <string name="forum_info_summary">Entrar al grupo Español de Telegram</string>
-  <string name="addons_title">Complementos</string>
-  <string name="addons_summary">Archivos útiles</string>
+  <string name="addons_title">Mirrors, links y utilidades</string>
+  <string name="addons_summary">Archivos útiles, asi como mirrors a la descarga principal y links utiles del proyecto</string>
   <string name="addons_error">Error al cargar la lista de complementos</string>
   <!-- MD5 -->
   <string name="checking_md5">Verificando la integridad del archivo…</string>
